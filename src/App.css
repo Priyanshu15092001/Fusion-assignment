@@ -1,0 +1,13 @@
+/* App.css */
+.rbc-header {
+  text-align: center;
+  padding: 8px;
+  position: relative;
+}
+
+.rbc-today {
+  background-color: #e0f2fe !important;
+  font-weight: bold;
+  /* border-radius: 9999px; */
+  color: #1d4ed8;
+}
